@@ -1,2 +1,1 @@
-# repositorio_examen
-Este es mi primer repositorio remoto con GIT
+I am editing the README file. Adding some more details about the project description.
